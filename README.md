@@ -7,7 +7,7 @@ It demonstrates Python programming, GUI design with **Tkinter**, and database ma
 ## Features
 
 * **User Authentication:** Login using a secure PIN
-* **Account Management:** Check balance, deposit funds, and withdraw cash
+* **Account Management:** Check balance, deposit funds,withdraw cash and check transactions history
 * **PIN Management:** Change PIN securely
 * **Transaction History:** Tracks all deposits and withdrawals stored in **SQLite**
 * **Multiple Interfaces:** Terminal (console) menu and GUI using Tkinter
